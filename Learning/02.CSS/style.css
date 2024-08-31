@@ -1,0 +1,17 @@
+h1 {
+    color: purple;
+}
+
+#header1 {
+    color: green;
+}
+
+.header2 {
+    color: blueviolet;
+    margin: 2px; 
+}
+
+p{
+    color: blue;
+    background-color: aquamarine;
+}
